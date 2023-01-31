@@ -25,9 +25,9 @@ for (let i = 0; i < text.length; i++) {
 
 for (let j = 0; j < text.length / 2; j++) {
   let stkImg = document.querySelectorAll("#stk-img");
-  let imgSrcDft = "../assets/img/lc-molkky.svg";
+  let imgSrcDft = "assets/img/lc-molkky.svg";
   let imgSrcR =
-    "../assets/img/lc-molkky.svg 1200w, ../assets/img/lc-molkky-resp.svg 760w";
+    "assets/img/lc-molkky.svg 1200w, assets/img/lc-molkky-resp.svg 760w";
   stkImg[j].innerHTML =
     `<img src="${imgSrcDft}"` +
     ` srcset="${imgSrcR}"` +
