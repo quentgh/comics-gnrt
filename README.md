@@ -1,2 +1,2 @@
 # comics-gnrt
-A comics generator - html css js
+A comics generator - small project with html css js
