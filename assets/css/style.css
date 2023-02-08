@@ -110,7 +110,7 @@ header {
   width: 95vw;
 }
 
-/* VIGNETTE 1 */
+/* PANEL 1 */
 #stk-01 {
   width: 35vw;
   height: 35vw;
@@ -118,7 +118,7 @@ header {
   display: inline-block;
 }
 
-/* VIGNETTE 2 */
+/* PANEL 2 */
 #stk-02 {
   width: 35vw;
   height: 35vw;
@@ -126,7 +126,7 @@ header {
   display: inline-block;
 }
 
-/* VIGNETTE 3 */
+/* PANEL 3 */
 #stk-03 {
   width: 35vw;
   height: 35vw;
@@ -134,7 +134,7 @@ header {
   display: inline-block;
 }
 
-/* VIGNETTE 4 */
+/* PANEL 4 */
 #stk-04 {
   width: 35vw;
   height: 35vw;
@@ -142,7 +142,7 @@ header {
   display: inline-block;
 }
 
-/* VIGNETTE 5 */
+/* PANEL 5 */
 #stk-05 {
   width: 35vw;
   height: 35vw;
@@ -150,7 +150,7 @@ header {
   display: inline-block;
 }
 
-/* VIGNETTE 6 */
+/* PANEL 6 */
 #stk-06 {
   width: 35vw;
   height: 35vw;
@@ -164,6 +164,7 @@ header {
   height: auto;
 }
 
+/* SPEECH BUBBLE */
 .text-box-01 {
   background-color: white;
   z-index: 100;
@@ -638,9 +639,8 @@ footer {
   }
 }
 
-/* More large devices : 1199px  - 1401px (( and (max-width: 2200px)))*/
+/* More large devices : 1199px  - 1401px*/
 @media only screen and (min-width: 1700px) {
-  /* VIGNETTE 1 */
   #stk-01 {
     width: 35vw;
     height: 35vw;
@@ -648,7 +648,6 @@ footer {
     display: inline-block;
   }
 
-  /* VIGNETTE 2 */
   #stk-02 {
     width: 35vw;
     height: 35vw;
@@ -656,7 +655,6 @@ footer {
     display: inline-block;
   }
 
-  /* VIGNETTE 3 */
   #stk-03 {
     width: 35vw;
     height: 35vw;
@@ -664,7 +662,6 @@ footer {
     display: inline-block;
   }
 
-  /* VIGNETTE 4 */
   #stk-04 {
     width: 35vw;
     height: 35vw;
@@ -672,7 +669,6 @@ footer {
     display: inline-block;
   }
 
-  /* VIGNETTE 5 */
   #stk-05 {
     width: 35vw;
     height: 35vw;
@@ -680,7 +676,6 @@ footer {
     display: inline-block;
   }
 
-  /* VIGNETTE 6 */
   #stk-06 {
     width: 35vw;
     height: 35vw;
@@ -703,7 +698,7 @@ footer {
     font-size: 1rem;
     left: 2rem;
     right: 21rem;
-    bottom: 22rem;
+    bottom: 24rem;
     justify-content: center;
     text-align: center;
     vertical-align: middle;
@@ -718,7 +713,7 @@ footer {
     font-size: 1rem;
     left: 21rem;
     right: 3rem;
-    bottom: 20rem;
+    bottom: 22rem;
     justify-content: center;
     text-align: center;
     vertical-align: middle;
