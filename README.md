@@ -1,4 +1,4 @@
-# comics-gnrt
+# Comics-gnrt SASS
 A comics generator - small project with HTML / CSS / JS.
 
 Edit the Javascript file to add your image and dialogue.
