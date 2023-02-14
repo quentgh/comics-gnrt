@@ -332,7 +332,7 @@ footer {
     max-height: 10vw;
     position: absolute;
     bottom: -5rem;
-    left: -4rem;
+    left: -5rem;
     color: #333;
     font-size: 1rem;
     justify-content: center;
@@ -345,7 +345,7 @@ footer {
     max-height: 10vw;
     position: absolute;
     bottom: -5rem;
-    left: 16rem;
+    left: 14rem;
     color: #333;
     font-size: 1rem;
     transform: translate(0, 30%);
